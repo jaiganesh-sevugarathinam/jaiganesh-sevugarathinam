@@ -5,9 +5,9 @@ I am **Jaiganesh Sevugarathinam** working as **Frontend Developer**. I am Skille
 <br />
 
 
-<a href="https://twitter.com/ijaiganesh">
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/ijaiganesh?style=social)
-</a>
+
 
 ## 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
