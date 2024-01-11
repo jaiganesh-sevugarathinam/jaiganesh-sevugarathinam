@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am **Jaiganesh Sevugarathinam** working as **Frontend Developer**. I am Skilled in **React JS, Redux , NodeJS, MongoDB, MERN Stack, RESTfull API’s.**
+I am **Jaiganesh Sevugarathinam** working as **Frontend Developer**. I am Skilled in **ReactJS, NextJS,  Redux , ExpressJS, NodeJS, MongoDB, MERN Stack, RESTfull API’s.**
 
 
 <br />
